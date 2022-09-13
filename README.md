@@ -13,10 +13,9 @@
 const thai = {
   age:21,
   code: [Javascript, Typescript, C, Python, HTML, CSS, ],
-  tools: [React, React Native, NestJS, Django, Redux, Node, Styled-Components, Docker, Cypress],
+  tools: [React, React Native, NestJS, Django, Redux, Docker, Cypress],
   techCommunities: [ "Rocketseat" , "SOLuises"],
-  challenge: `I love to spend my time trying to solve big problems
-  like the travelling salesman problem.`
+  hobbie: "I love to spend my time trying to the travelling salesman problem"
 }
 ```
 ---
