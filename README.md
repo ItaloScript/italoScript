@@ -12,7 +12,7 @@
 ```javascript
 const Italo = {
   age:21,
-  code: [Javascript, Typescript, C, Python, HTML, CSS],
+  code: [Javascript, Typescript, C, Python, Html, Css],
   tools: [React, React Native, NestJS, Django, Redux, Docker, Cypress],
   techCommunities: [ "Rocketseat" , "SOLuises"],
   hobbie: "I love to spend my time trying to the travelling salesman problem"
