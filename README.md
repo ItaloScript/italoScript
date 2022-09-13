@@ -2,7 +2,7 @@
 
 <div align="center">
 	<br>
-		<img src="[good-times.svg](https://raw.githubusercontent.com/wrapperup/wrapperup/02392f15f4755a6c38d171f4e72d40ee89a91d75/good-times.svg)" width="400px">
+		<img src="https://raw.githubusercontent.com/wrapperup/wrapperup/02392f15f4755a6c38d171f4e72d40ee89a91d75/good-times.svg" width="400px">
 	<br>
 </div>
 
