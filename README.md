@@ -1,5 +1,5 @@
 <h2> Hi, I'm Italo Silva! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://raw.githubusercontent.com/wrapperup/wrapperup/02392f15f4755a6c38d171f4e72d40ee89a91d75/good-times.svg" width="230">
+<img align='right' src="https://c.tenor.com/P0yMYP7HnYUAAAAd/viktor-arcane-arcane.gif" width="175">
 <p><em>Computer Scientist at <a href="https://portal.ifma.edu.br/inicio/">Instituto Federal do Maranhão</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>QA Tester at <a href="http://www.hapvida.com.br/site/">HapVida</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
