@@ -1,4 +1,4 @@
-<h2> Hi, I'm Italo Silva! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Italo Silva! <img src="https://thumbs.gfycat.com/ThickGivingCormorant-max-1mb.gif" width="50"></h2>
 <img align='right' src="https://c.tenor.com/P0yMYP7HnYUAAAAd/viktor-arcane-arcane.gif" width="175">
 <p><em>Computer Scientist at <a href="https://portal.ifma.edu.br/inicio/">Instituto Federal do Maranhão</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>QA Tester at <a href="http://www.hapvida.com.br/site/">HapVida</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -10,7 +10,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const Italo = {
   age:21,
   code: [Javascript, Typescript, C, Python, HTML, CSS],
   tools: [React, React Native, NestJS, Django, Redux, Docker, Cypress],
