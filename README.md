@@ -1,4 +1,4 @@
-<h2> Hi, I'm Italo Silva! <img src="https://thumbs.gfycat.com/ThickGivingCormorant-max-1mb.gif" width="50"></h2>
+<h2> Hi, I'm Italo Silva! <img src="https://media0.giphy.com/media/XDd8jo4U5tQBtQEekN/giphy.gif?cid=6c09b952t06i97fuzrf8ns14qsvtber8ou9nietxc1d2dwms&rid=giphy.gif&ct=s" width="70"></h2>
 <img align='right' src="https://c.tenor.com/P0yMYP7HnYUAAAAd/viktor-arcane-arcane.gif" width="175">
 <p><em>Computer Scientist at <a href="https://portal.ifma.edu.br/inicio/">Instituto Federal do Maranhão</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>QA Tester at <a href="http://www.hapvida.com.br/site/">HapVida</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
