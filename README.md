@@ -13,7 +13,7 @@
 const Italo = {
   age:21,
   code: [Javascript, Typescript, C, Python, Html, Css],
-  tools: [React, React Native, NestJS, Django, Redux, Docker, Cypress],
+  tools: [React, React Native, NestJS, Django, Go, Rust, Redux, Docker, Cypress],
   techCommunities: [ "Rocketseat" , "SOLuises"],
   hobbie: "I love to spend my time trying to solve the travelling salesman problem"
 }
