@@ -1,6 +1,6 @@
 <h2> Hi, I'm Italo Silva! <img src="https://media0.giphy.com/media/XDd8jo4U5tQBtQEekN/giphy.gif?cid=6c09b952t06i97fuzrf8ns14qsvtber8ou9nietxc1d2dwms&rid=giphy.gif&ct=s" width="70"></h2>
 <img align='right' src="https://c.tenor.com/P0yMYP7HnYUAAAAd/viktor-arcane-arcane.gif" width="175">
-<p><em>Computer Scientist at <a href="https://portal.ifma.edu.br/inicio/">Instituto Federal do Maranhão</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer at <a href="https://consultaremedios.com.br/">Consulta Remedios</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Computer Scientist at <a href="https://portal.ifma.edu.br/inicio/">Instituto Federal do Maranhão</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer at <a href="https://tivit.com/">Tivit</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: italoScript](https://img.shields.io/badge/-italoScript-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italoScript/)](https://www.linkedin.com/in/italoScript/)
